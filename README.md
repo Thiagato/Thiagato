@@ -64,7 +64,10 @@ Curto transformar regra de negócio em solução prática, organizar arquitetura
 
 ---
 
-## 🎮 Contribuições
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<p align="center">
+  <img
+    src="https://media1.tenor.com/m/wgIsbsk9wmoAAAAd/frieren-sousou-no-frieren.gif"
+    alt="Frieren gif"
+    width="700"
+  />
+</p>
